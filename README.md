@@ -28,4 +28,24 @@ I specialize in building scalable data pipelines and turning raw telemetry into 
 * **The Work:** Developed a full-stack storefront application with strict type safety and a clean UI.
 * **Key Feature:** Optimized state management for inventory tracking and customer order flows.
 
-#### 📊 [CSV Exploratory Data Analysis](
+#### 📊 [CSV Exploratory Data Analysis](https://github.com/chaitanya1110-creates/csv_eda)
+* **The Stack:** Python, Pandas, Matplotlib.
+* **The Work:** A utility tool designed to automate the initial phases of data discovery.
+* **Key Feature:** Generates automated statistical summaries and visualizations directly from raw CSV uploads.
+
+#### 🏢 [Bizmetric Data Project](https://github.com/chaitanya1110-creates/bizmetric)
+* Implementation of professional-grade data transformations and reporting logic using industry-standard tools.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya1110-creates&show_icons=true&theme=radical&hide_border=true" alt="Chaitanya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya1110-creates&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/chaitanya-samudra](https://linkedin.com/in/chaitanya-samudra)
+- **Location:** Pune, India 📍
