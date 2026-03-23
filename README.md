@@ -36,4 +36,4 @@ I specialize in building scalable data pipelines and turning raw telemetry into 
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/chaitanya-samudra](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- **Portfolio:** [Link to your website if available]
+
