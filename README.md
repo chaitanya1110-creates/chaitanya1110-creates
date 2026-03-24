@@ -1,7 +1,7 @@
 # Hi there, I'm Chaitanya Samudra 👋
 
 ### 🚀 Data Engineer | Automating Insights with PySpark & Cloud 
-I specialize in building scalable data pipelines and turning raw telemetry into actionable insights. Currently focused on Big Data workflows and Microsoft Cloud Ecosystem.
+I  build scalable data pipelines and turning raw telemetry into actionable insights. Currently focused on Big Data workflows and Microsoft Cloud Ecosystem.
 
 ---
 
