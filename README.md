@@ -36,7 +36,7 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 #### 🏢 [Bizmetric Data Project](https://github.com/chaitanya1110-creates/bizmetric)
 * Implementation of professional-grade data transformations and reporting logic using industry-standard tools.
 
-####⚽ [Automated Football Intelligence Pipeline](https://github.com/chaitanya1110-creates/football_pl_laliga_project)
+#### ⚽ [Automated Football Intelligence Pipeline](https://github.com/chaitanya1110-creates/football_pl_laliga_pipeline)
 * **End-to-End Orchestration:** A multi-stage Medallion Architecture (Bronze/Silver/Gold) built in Databricks using PySpark to process 150+ years of global match data.
 * **Zero-Touch Deployment:** Integrated a custom Python-to-GitHub REST API bridge that pushes processed JSON assets directly from Spark clusters to a live production environment.
 * **High-Performance Frontend:** Engineered a "Zero-Dependency" Dark-Mode dashboard with Glassmorphism UI, optimized for sub-500ms load times and mobile responsiveness.
