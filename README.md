@@ -43,14 +43,6 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 * **Automated Intelligence:** Features adaptive JSON parsing logic and dynamic historical win-tracking, transforming raw big data into real-time interactive visualizations.
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanya1110-creates&show_icons=true&theme=radical&hide_border=true" alt="Chaitanya's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya1110-creates&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/chaitanya-samudra](https://linkedin.com/in/chaitanya-samudra)
 - **Location:** Pune, India 📍
