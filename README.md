@@ -1,6 +1,6 @@
 # Hi there, I'm Chaitanya Samudra 👋
 
-### 🚀 Data Engineer | Automating Insights with PySpark & Cloud 
+### 🚀 AI Engineer | Automating Insights with PySpark & Cloud & Creating full Stack apps using and integrating AI
 I  build scalable data pipelines and turning raw telemetry into actionable insights. Currently focused on Big Data workflows and Microsoft Cloud Ecosystem.
 
 ---
@@ -17,6 +17,11 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 ---
 
 ### 📂 Featured Projects
+
+### 💧 [AI Water Tracker](https://github.com/chaitanya1110-creates/AI_Water_Tracker_)
+- *The Stack:* Python (Django/FastAPI), JavaScript, HTML5, CSS3, Optimized Computational Layers.
+- *The Work:* Built an intelligent full-stack tracking application designed to map and monitor daily hydration metrics. Separated frontend and backend services ensure clean api routing and modular computational scaling.
+- *Key Feature:* Employs automated data logging and predictive logic architectures to generate personalized hydration insight feedback.
 
 #### 🏎️ [F1 Data Pipeline](https://github.com/chaitanya1110-creates/f1-project)
 * **The Stack:** PySpark, Azure Databricks, SQL, Unity Catalog.
