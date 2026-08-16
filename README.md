@@ -9,7 +9,7 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 
 | Category | Skills & Logos |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
 | **Data Engineering** | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | **Cloud & Orchestration** | ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 | **Tools** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
@@ -24,7 +24,7 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 - *Key Feature:* Employs automated data logging and predictive logic architectures to generate personalized hydration insight feedback.
 
 #### 💸 [MicroSpends](https://github.com/chaitanya1110-creates/microspends)
-* **The Stack:** Mobile/Full-Stack Architecture.
+* **The Stack:** Kotlin, Mobile/Full-Stack Architecture.
 * **The Work:** Designed and streamlined a high-performance expense-tracking solution to help users effortlessly stay on top of their financial habits and spending patterns.
 * **Key Feature:** Lightweight, responsive design with direct binary releases available for easy mobile installation via [Releases](https://github.com/chaitanya1110-creates/microspends/releases/latest).
 
