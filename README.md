@@ -23,6 +23,11 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 - *The Work:* Built an intelligent full-stack tracking application designed to map and monitor daily hydration metrics. Separated frontend and backend services ensure clean api routing and modular computational scaling.
 - *Key Feature:* Employs automated data logging and predictive logic architectures to generate personalized hydration insight feedback.
 
+#### 💸 [MicroSpends](https://github.com/chaitanya1110-creates/microspends)
+* **The Stack:** Mobile/Full-Stack Architecture.
+* **The Work:** Designed and streamlined a high-performance expense-tracking solution to help users effortlessly stay on top of their financial habits and spending patterns.
+* **Key Feature:** Lightweight, responsive design with direct binary releases available for easy mobile installation via [Releases](https://github.com/chaitanya1110-creates/microspends/releases/latest).
+
 #### 🏎️ [F1 Data Pipeline](https://github.com/chaitanya1110-creates/f1-project)
 * **The Stack:** PySpark, Azure Databricks, SQL, Unity Catalog.
 * **The Work:** Engineered an automated ETL workflow to process raw racing telemetry and historical stats.
@@ -46,6 +51,7 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 * **Zero-Touch Deployment:** Integrated a custom Python-to-GitHub REST API bridge that pushes processed JSON assets directly from Spark clusters to a live production environment.
 * **High-Performance Frontend:** Engineered a "Zero-Dependency" Dark-Mode dashboard with Glassmorphism UI, optimized for sub-500ms load times and mobile responsiveness.
 * **Automated Intelligence:** Features adaptive JSON parsing logic and dynamic historical win-tracking, transforming raw big data into real-time interactive visualizations.
+
 ---
 
 ### 📫 Let's Connect
