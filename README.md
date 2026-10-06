@@ -15,7 +15,7 @@
 * **The Work:** Developed a dedicated iOS expense-tracking application tailored for seamless mobile performance and local data persistence.
 * **Key Feature:** Clean, responsive UI optimized for Apple ecosystem guidelines to track everyday micro-transactions effortlessly.
 
-#### 📦 [Blackbox Strategy](https://github.com/chaitanya1110-creates/blackbox-stratergy)
+#### 📦 [Blackbox Strategy](https://github.com/chaitanya1110-creates/Icarus-blackbox-trading)
 * **The Stack:** Python, Algorithmic Analysis, Data Processing.
 * **The Work:** Engineered an algorithmic data strategy and quantitative framework designed for high-performance backtesting and statistical evaluation.
 * **Key Feature:** Modular pipeline architecture built to process high-volume datasets and deliver clear, automated analytical insights.
