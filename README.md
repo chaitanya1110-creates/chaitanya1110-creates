@@ -1,21 +1,3 @@
-# Hi there, I'm Chaitanya Samudra 👋
-
-### 🚀 AI Engineer | Automating Insights with PySpark & Cloud & Creating full Stack apps using and integrating AI
-I  build scalable data pipelines and turning raw telemetry into actionable insights. Currently focused on Big Data workflows and Microsoft Cloud Ecosystem.
-
----
-
-### 🛠 Tech Stack & Tools
-
-| Category | Skills & Logos |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Data Engineering** | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Cloud & Orchestration** | ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
-| **Tools** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
-
----
-
 ### 📂 Featured Projects
 
 ### 💧 [AI Water Tracker](https://github.com/chaitanya1110-creates/AI_Water_Tracker_)
@@ -27,6 +9,16 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 * **The Stack:** Kotlin, Mobile/Full-Stack Architecture.
 * **The Work:** Designed and streamlined a high-performance expense-tracking solution to help users effortlessly stay on top of their financial habits and spending patterns.
 * **Key Feature:** Lightweight, responsive design with direct binary releases available for easy mobile installation via [Releases](https://github.com/chaitanya1110-creates/MicroSpend/releases/latest).
+
+#### 📱 [MicroSpend - iOS](https://github.com/chaitanya1110-creates/microspend---ios)
+* **The Stack:** Swift, iOS Native, Mobile Architecture.
+* **The Work:** Developed a dedicated iOS expense-tracking application tailored for seamless mobile performance and local data persistence.
+* **Key Feature:** Clean, responsive UI optimized for Apple ecosystem guidelines to track everyday micro-transactions effortlessly.
+
+#### 📦 [Blackbox Strategy](https://github.com/chaitanya1110-creates/blackbox-stratergy)
+* **The Stack:** Python, Algorithmic Analysis, Data Processing.
+* **The Work:** Engineered an algorithmic data strategy and quantitative framework designed for high-performance backtesting and statistical evaluation.
+* **Key Feature:** Modular pipeline architecture built to process high-volume datasets and deliver clear, automated analytical insights.
 
 #### 🏎️ [F1 Data Pipeline](https://github.com/chaitanya1110-creates/f1-project)
 * **The Stack:** PySpark, Azure Databricks, SQL, Unity Catalog.
@@ -51,9 +43,3 @@ I  build scalable data pipelines and turning raw telemetry into actionable insig
 * **Zero-Touch Deployment:** Integrated a custom Python-to-GitHub REST API bridge that pushes processed JSON assets directly from Spark clusters to a live production environment.
 * **High-Performance Frontend:** Engineered a "Zero-Dependency" Dark-Mode dashboard with Glassmorphism UI, optimized for sub-500ms load times and mobile responsiveness.
 * **Automated Intelligence:** Features adaptive JSON parsing logic and dynamic historical win-tracking, transforming raw big data into real-time interactive visualizations.
-
----
-
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/chaitanya-samudra](https://linkedin.com/in/chaitanya-samudra)
-- **Location:** Pune, India 📍
