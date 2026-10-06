@@ -10,7 +10,7 @@
 * **The Work:** Designed and streamlined a high-performance expense-tracking solution to help users effortlessly stay on top of their financial habits and spending patterns.
 * **Key Feature:** Lightweight, responsive design with direct binary releases available for easy mobile installation via [Releases](https://github.com/chaitanya1110-creates/MicroSpend/releases/latest).
 
-#### 📱 [MicroSpend - iOS](https://github.com/chaitanya1110-creates/microspend---ios)
+#### 📱 [MicroSpend - iOS](https://github.com/chaitanya1110-creates/microspends---ios)
 * **The Stack:** Swift, iOS Native, Mobile Architecture.
 * **The Work:** Developed a dedicated iOS expense-tracking application tailored for seamless mobile performance and local data persistence.
 * **Key Feature:** Clean, responsive UI optimized for Apple ecosystem guidelines to track everyday micro-transactions effortlessly.
